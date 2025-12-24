@@ -3,3 +3,5 @@ duckdb
 snowflake-connector-python[pandas]
 python-dotenv
 pyarrow
+pandas
+streamlit
